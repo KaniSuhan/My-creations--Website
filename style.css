@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color:darksalmon;
+}
+h1{
+    color:blanchedalmond ;
+}
+h4{
+    color: blanchedalmond;
+}
+h2{
+    color: blanchedalmond;
+    border: 2px rgb(8, 252, 199) dotted;
+}
+.line{
+  background-color: black;
+  height: 6px;
+width: 70px;
+margin: 8px auto;
+}
